@@ -1,0 +1,3 @@
+DICA: Recomendo hospedar o arquivo (hwid) no site https://www.awardspace.com/ para não ter erro!
+
+Depois é só ir colocando as HWID que o bat disponibiliza no arquivo hospedado no site!
